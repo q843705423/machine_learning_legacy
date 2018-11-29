@@ -32,3 +32,7 @@ python xml_to_csv.py
 以下命令是将csv文件转换成tfrecord记录集
 python generate_tfrecord.py --csv_input=data/test_labels.csv --output_path=data/test.record
 python generate_tfrecord.py --csv_input=data/train_labels.csv --output_path=data/train.record
+
+以下命令是进行训练,指定了配置目录与训练目录保存集
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=config/pipeline.config
+
