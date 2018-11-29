@@ -1,0 +1,560 @@
+item {
+		id:1
+		name:"japanese_1"
+}
+item {
+		id:2
+		name:"japanese_2"
+}
+item {
+		id:3
+		name:"japanese_3"
+}
+item {
+		id:4
+		name:"japanese_4"
+}
+item {
+		id:5
+		name:"japanese_5"
+}
+item {
+		id:6
+		name:"japanese_6"
+}
+item {
+		id:7
+		name:"japanese_7"
+}
+item {
+		id:8
+		name:"japanese_8"
+}
+item {
+		id:9
+		name:"japanese_9"
+}
+item {
+		id:10
+		name:"japanese_10"
+}
+item {
+		id:11
+		name:"japanese_11"
+}
+item {
+		id:12
+		name:"japanese_12"
+}
+item {
+		id:13
+		name:"japanese_13"
+}
+item {
+		id:14
+		name:"japanese_14"
+}
+item {
+		id:15
+		name:"japanese_15"
+}
+item {
+		id:16
+		name:"japanese_16"
+}
+item {
+		id:17
+		name:"japanese_17"
+}
+item {
+		id:18
+		name:"japanese_18"
+}
+item {
+		id:19
+		name:"japanese_19"
+}
+item {
+		id:20
+		name:"japanese_20"
+}
+item {
+		id:21
+		name:"japanese_21"
+}
+item {
+		id:22
+		name:"japanese_22"
+}
+item {
+		id:23
+		name:"japanese_23"
+}
+item {
+		id:24
+		name:"japanese_24"
+}
+item {
+		id:25
+		name:"japanese_25"
+}
+item {
+		id:26
+		name:"japanese_26"
+}
+item {
+		id:27
+		name:"japanese_27"
+}
+item {
+		id:28
+		name:"japanese_28"
+}
+item {
+		id:29
+		name:"japanese_29"
+}
+item {
+		id:30
+		name:"japanese_30"
+}
+item {
+		id:31
+		name:"japanese_31"
+}
+item {
+		id:32
+		name:"japanese_32"
+}
+item {
+		id:33
+		name:"japanese_33"
+}
+item {
+		id:34
+		name:"japanese_34"
+}
+item {
+		id:35
+		name:"japanese_35"
+}
+item {
+		id:36
+		name:"japanese_36"
+}
+item {
+		id:37
+		name:"japanese_37"
+}
+item {
+		id:38
+		name:"japanese_38"
+}
+item {
+		id:39
+		name:"japanese_39"
+}
+item {
+		id:40
+		name:"japanese_40"
+}
+item {
+		id:41
+		name:"japanese_41"
+}
+item {
+		id:42
+		name:"japanese_42"
+}
+item {
+		id:43
+		name:"japanese_43"
+}
+item {
+		id:44
+		name:"japanese_44"
+}
+item {
+		id:45
+		name:"japanese_45"
+}
+item {
+		id:46
+		name:"japanese_46"
+}
+item {
+		id:47
+		name:"japanese_47"
+}
+item {
+		id:48
+		name:"japanese_48"
+}
+item {
+		id:49
+		name:"japanese_49"
+}
+item {
+		id:50
+		name:"japanese_50"
+}
+item {
+		id:51
+		name:"japanese_51"
+}
+item {
+		id:52
+		name:"japanese_52"
+}
+item {
+		id:53
+		name:"japanese_53"
+}
+item {
+		id:54
+		name:"japanese_54"
+}
+item {
+		id:55
+		name:"japanese_55"
+}
+item {
+		id:56
+		name:"japanese_56"
+}
+item {
+		id:57
+		name:"japanese_57"
+}
+item {
+		id:58
+		name:"japanese_58"
+}
+item {
+		id:59
+		name:"japanese_59"
+}
+item {
+		id:60
+		name:"japanese_60"
+}
+item {
+		id:61
+		name:"japanese_61"
+}
+item {
+		id:62
+		name:"japanese_62"
+}
+item {
+		id:63
+		name:"japanese_63"
+}
+item {
+		id:64
+		name:"japanese_64"
+}
+item {
+		id:65
+		name:"japanese_65"
+}
+item {
+		id:66
+		name:"japanese_66"
+}
+item {
+		id:67
+		name:"japanese_67"
+}
+item {
+		id:68
+		name:"japanese_68"
+}
+item {
+		id:69
+		name:"japanese_69"
+}
+item {
+		id:70
+		name:"japanese_70"
+}
+item {
+		id:71
+		name:"japanese_71"
+}
+item {
+		id:72
+		name:"japanese_72"
+}
+item {
+		id:73
+		name:"japanese_73"
+}
+item {
+		id:74
+		name:"japanese_74"
+}
+item {
+		id:75
+		name:"japanese_75"
+}
+item {
+		id:76
+		name:"japanese_76"
+}
+item {
+		id:77
+		name:"japanese_77"
+}
+item {
+		id:78
+		name:"japanese_78"
+}
+item {
+		id:79
+		name:"japanese_79"
+}
+item {
+		id:80
+		name:"japanese_80"
+}
+item {
+		id:81
+		name:"japanese_81"
+}
+item {
+		id:82
+		name:"japanese_82"
+}
+item {
+		id:83
+		name:"japanese_83"
+}
+item {
+		id:84
+		name:"japanese_84"
+}
+item {
+		id:85
+		name:"japanese_85"
+}
+item {
+		id:86
+		name:"japanese_86"
+}
+item {
+		id:87
+		name:"japanese_87"
+}
+item {
+		id:88
+		name:"japanese_88"
+}
+item {
+		id:89
+		name:"japanese_89"
+}
+item {
+		id:90
+		name:"japanese_90"
+}
+item {
+		id:91
+		name:"japanese_91"
+}
+item {
+		id:92
+		name:"japanese_92"
+}
+item {
+		id:93
+		name:"japanese_93"
+}
+item {
+		id:94
+		name:"japanese_94"
+}
+item {
+		id:95
+		name:"japanese_95"
+}
+item {
+		id:96
+		name:"japanese_96"
+}
+item {
+		id:97
+		name:"japanese_97"
+}
+item {
+		id:98
+		name:"japanese_98"
+}
+item {
+		id:99
+		name:"japanese_99"
+}
+item {
+		id:100
+		name:"japanese_100"
+}
+item {
+		id:101
+		name:"japanese_101"
+}
+item {
+		id:102
+		name:"japanese_102"
+}
+item {
+		id:103
+		name:"japanese_103"
+}
+item {
+		id:104
+		name:"japanese_104"
+}
+item {
+		id:105
+		name:"japanese_105"
+}
+item {
+		id:106
+		name:"japanese_106"
+}
+item {
+		id:107
+		name:"japanese_107"
+}
+item {
+		id:108
+		name:"japanese_108"
+}
+item {
+		id:109
+		name:"japanese_109"
+}
+item {
+		id:110
+		name:"japanese_110"
+}
+item {
+		id:111
+		name:"japanese_111"
+}
+item {
+		id:112
+		name:"japanese_112"
+}
+item {
+		id:113
+		name:"japanese_113"
+}
+item {
+		id:114
+		name:"japanese_114"
+}
+item {
+		id:115
+		name:"japanese_115"
+}
+item {
+		id:116
+		name:"japanese_116"
+}
+item {
+		id:117
+		name:"japanese_117"
+}
+item {
+		id:118
+		name:"japanese_118"
+}
+item {
+		id:119
+		name:"japanese_119"
+}
+item {
+		id:120
+		name:"japanese_120"
+}
+item {
+		id:121
+		name:"japanese_121"
+}
+item {
+		id:122
+		name:"japanese_122"
+}
+item {
+		id:123
+		name:"japanese_123"
+}
+item {
+		id:124
+		name:"japanese_124"
+}
+item {
+		id:125
+		name:"japanese_125"
+}
+item {
+		id:126
+		name:"japanese_126"
+}
+item {
+		id:127
+		name:"japanese_127"
+}
+item {
+		id:128
+		name:"japanese_128"
+}
+item {
+		id:129
+		name:"japanese_129"
+}
+item {
+		id:130
+		name:"japanese_130"
+}
+item {
+		id:131
+		name:"japanese_131"
+}
+item {
+		id:132
+		name:"japanese_132"
+}
+item {
+		id:133
+		name:"japanese_133"
+}
+item {
+		id:134
+		name:"japanese_134"
+}
+item {
+		id:135
+		name:"japanese_135"
+}
+item {
+		id:136
+		name:"japanese_136"
+}
+item {
+		id:137
+		name:"japanese_137"
+}
+item {
+		id:138
+		name:"japanese_138"
+}
+item {
+		id:139
+		name:"japanese_139"
+}
+item {
+		id:140
+		name:"japanese_140"
+}
